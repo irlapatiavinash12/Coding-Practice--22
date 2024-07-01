@@ -1,0 +1,33 @@
+.home-user-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+}
+
+.user-img-details {
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+}
+
+.user-name-text {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.user-description {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}

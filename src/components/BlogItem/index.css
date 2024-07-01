@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+
+.list-container {
+  height: 12vh;
+  width: 60vw;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin: 5px;
+}
+
+.date-tite-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.title-text {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.date-text {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
